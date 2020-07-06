@@ -1,2 +1,2 @@
-import './x.css'
+import './x.less'
 export default 'xxx'
